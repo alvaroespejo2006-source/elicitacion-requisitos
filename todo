@@ -1,0 +1,160 @@
+SUPERAMIGOS GLOOMING SPA 
+
+preguntas para cliente potencial de la pagina
+1.¿Qué funcionalidades principales espera encontrar en la app para personalizar baños y atuendos de mascotas?.
+2. ¿Desea que la app incluya inicio de sesión seguro con usuario y contraseña (o autenticación biométrica)?
+3.¿Qué información sobre la mascota debería poder registrar el usuario (nombre, raza, tamaño, alergias, etc.)?.
+4.¿Desea que la app permita agendar citas o reservas? ¿Cómo debería funcionar este proceso?
+5.¿Debería existir un catálogo de productos/servicios en la app? ¿Cómo espera que se presente?
+6.¿Desea incorporar algún sistema de valoración/comentarios para los servicios ofrecidos?
+7.¿Qué nivel de accesibilidad considera necesario para usuarios con discapacidades?
+8.¿Desea que la app permita gestionar múltiples usuarios conectados al mismo tiempo sin afectar el servicio (ej. varios clientes reservando simultáneamente)?
+9.¿Qué tipo de soporte y mantenimiento espera después del lanzamiento de la app?
+10.¿Cuáles son sus expectativas sobre el diseño visual y la experiencia de usuario ?
+11.¿Hay limitaciones de presupuesto o tiempo para el desarrollo de la app?
+12.¿Existen requisitos legales o normativos que deban cumplirse (protección de datos, comercio electrónico, cuidado animal, etc.)?
+13¿Hay restricciones en cuanto a las tecnologías que deben utilizarse?
+14.¿Hay algún tipo de restricción sobre la frecuencia o cantidad de servicios que un usuario puede solicitar?
+15.¿Hay políticas internas o requisitos corporativos que deban ser considerados?
+16.¿Se debe integrar la app con algún sistema existente de la empresa?
+17.¿Cuál es el presupuesto y plazo máximo para el desarrollo y puesta en producción del sistema?
+18.¿Existen normativas legales (por ejemplo, protección de datos, comercio electrónico, bienestar animal) que deban cumplirse?
+19. ¿Desea que la app permita personalizar la apariencia (colores, temas, fuentes) para mejorar la experiencia del usuario?
+20.¿Debe usarse alguna tecnología, lenguaje de programación o framework específico?
+
+Funcionales (RF): 1, 2, 3, 4, 5, 6, 8, 16, 19 → (9 en total)
+
+No funcionales (RNF): 7, 9, 10, 11, 12, 13, 14, 15, 17, 18, 20 → (11 en total)
+
+ENTREVISTA 
+# Entrevista a Persona ficticia: Cliente de App para Personalización de Baños y Atuendos de Mascotas
+
+**Nombre:** Gabriela Torres  
+**Edad:** 34 años  
+**Profesión:** Gerente de tienda de mascotas  
+**Perfil:** Apasionada por el bienestar animal, tech friendly, con experiencia en gestión de servicios y atención al cliente.
+
+
+
+**1. ¿Qué funcionalidades principales espera encontrar en la app para personalizar baños y atuendos de mascotas?**  
+Me gustaría poder elegir entre diferentes tipos de baño (medicado, aromático, desparasitante), seleccionar atuendos personalizados por talla y temporada, y ver el resultado de la personalización en una vista previa de la mascota. También sería útil recibir recomendaciones según el perfil de mi mascota.
+**2. ¿Desea que la app incluya inicio de sesión seguro con usuario y contraseña (o autenticación biométrica)?**  
+Sí, considero importante que la app ofrezca inicio de sesión seguro, preferentemente con opción de autenticación biométrica para mayor comodidad y seguridad.
+**3. ¿Qué información sobre la mascota debería poder registrar el usuario (nombre, raza, tamaño, alergias, etc.)?**  
+Lo ideal sería registrar nombre, especie, raza, edad, tamaño, peso, alergias, historial de servicios, y si tiene alguna condición médica especial.
+**4. ¿Desea que la app permita agendar citas o reservas? ¿Cómo debería funcionar este proceso?**  
+Sí, la agenda de citas es esencial. El proceso debería ser sencillo: seleccionar servicio, fecha y hora disponible, y confirmar la reserva. Me gustaría recibir recordatorios y poder modificar o cancelar la cita fácilmente.
+**5. ¿Debería existir un catálogo de productos/servicios en la app? ¿Cómo espera que se presente?**  
+Sí, espero ver un catálogo bien organizado, con categorías claras, imágenes, descripciones, precios y disponibilidad. Preferiría un formato tipo “tienda online”.
+**6. ¿Desea incorporar algún sistema de valoración/comentarios para los servicios ofrecidos?**  
+Sí, creo que sería muy útil poder dejar valoraciones y comentarios sobre los servicios, y también leer experiencias de otros usuarios.
+**7. ¿Qué nivel de accesibilidad considera necesario para usuarios con discapacidades?**  
+Debe cumplir estándares de accesibilidad: textos alternativos, navegación por voz, fuentes legibles, y contraste suficiente en los colores.
+**8. ¿Desea que la app permita gestionar múltiples usuarios conectados al mismo tiempo sin afectar el servicio (ej. varios clientes reservando simultáneamente)?**  
+Sí, la app debe soportar múltiples usuarios activos y garantizar que las reservas sean en tiempo real para evitar duplicidades.
+**9. ¿Qué tipo de soporte y mantenimiento espera después del lanzamiento de la app?**  
+Espero soporte técnico vía chat y correo, actualizaciones regulares, solución rápida de bugs y adaptaciones según nuevas necesidades.
+**10. ¿Cuáles son sus expectativas sobre el diseño visual y la experiencia de usuario?**  
+Espero un diseño moderno, amigable, intuitivo, con colores alegres y navegación sencilla. La experiencia debe ser rápida y sin complicaciones.
+**11. ¿Hay limitaciones de presupuesto o tiempo para el desarrollo de la app?**  
+Sí, el presupuesto es moderado y el plazo ideal para la entrega es de 4-5 meses desde el inicio del proyecto.
+**12. ¿Existen requisitos legales o normativos que deban cumplirse (protección de datos, comercio electrónico, cuidado animal, etc.)?**  
+Sí, debe cumplir normas de protección de datos (como GDPR), regulaciones de comercio electrónico y de bienestar animal.
+**13. ¿Hay restricciones en cuanto a las tecnologías que deben utilizarse?**  
+No tengo restricciones estrictas, pero prefiero tecnologías populares y mantenibles para facilitar el soporte futuro.
+**14. ¿Hay algún tipo de restricción sobre la frecuencia o cantidad de servicios que un usuario puede solicitar?**  
+No, pero sería recomendable limitar la cantidad de reservas simultáneas para evitar abusos y gestionar la capacidad del local.
+**15. ¿Hay políticas internas o requisitos corporativos que deban ser considerados?**  
+Sí, la app debe ajustarse a las políticas de privacidad y atención al cliente de la marca.
+**16. ¿Se debe integrar la app con algún sistema existente de la empresa?**  
+Sí, sería ideal que se integre con el sistema de facturación y gestión de clientes que usamos actualmente.
+**17. ¿Cuál es el presupuesto y plazo máximo para el desarrollo y puesta en producción del sistema?**  
+El presupuesto máximo es de $18,000 USD y el plazo es de 5 meses.
+**18. ¿Existen normativas legales (por ejemplo, protección de datos, comercio electrónico, bienestar animal) que deban cumplirse?**  
+Sí, insisto en la protección de datos personales, cumplimiento de comercio electrónico y regulaciones de bienestar animal.
+**19. ¿Desea que la app permita personalizar la apariencia (colores, temas, fuentes) para mejorar la experiencia del usuario?**  
+Sí, me gustaría que el usuario pueda elegir entre varios temas de colores y ajustar el tamaño de la fuente.
+**20. ¿Debe usarse alguna tecnología, lenguaje de programación o framework específico?**  
+Recomiendo usar frameworks modernos como React Native para poder lanzar la app en iOS y Android, pero estoy abierta a sugerencias.
+**Comentarios finales:**  
+Quiero que la app sea un referente en bienestar y estilo para mascotas, fácil de usar y segura para todos los usuarios.
+
+preguntas a 
+1.¿El sistema permite al usuario registrar y crear una cuenta?
+2.¿El usuario puede iniciar sesión y cerrar sesión correctamente?
+3.¿Se pueden agendar citas para cortes de pelo de perros en fechas y horas disponibles?
+4.¿El sistema permite seleccionar el tipo de corte de pelo (ej. corte básico, corte estético, corte de raza)?
+5.¿El usuario puede elegir accesorios como moños o lazos para agregar al servicio?
+6.¿Se pueden visualizar imágenes de los cortes y accesorios antes de confirmar la cita?
+7.¿El sistema envía una confirmación (correo o notificación) cuando se agenda una cita?
+8.¿El usuario puede modificar o cancelar una cita previamente agendada?
+9.¿El administrador o peluquero puede ver las citas programadas en un panel de control?
+10.¿El sistema permite procesar pagos en línea por el servicio y accesorios?
+11.¿El sistema carga la página principal en menos de 3 segundos?
+12.¿El sitio web es accesible desde dispositivos móviles (responsive design)?
+13.¿La plataforma es segura para proteger los datos personales y de pago de los usuarios?
+14.¿El sistema soporta al menos 500 usuarios conectados al mismo tiempo sin fallar?
+15.¿Las imágenes de cortes y accesorios se visualizan en alta calidad sin distorsión?
+16.¿El sitio está disponible el 99% del tiempo durante el mes?
+17.¿Los textos y botones son fáciles de entender y de usar por personas no técnicas?
+18.¿El sistema notifica al usuario de forma clara cuando hay un error (ej. intento fallido de pago)?
+19.¿El sitio permite el acceso en al menos dos idiomas (ej. español e inglés)?
+20.¿El sistema cumple con normativas de protección de datos (ej. GDPR o equivalente)?
+
+funcionales (RF): 1,2,3,4,5,6,7,8,9,10  ( 10 en total)
+no funcionales (RNF):11,12,13,14,15,16,17,18,19,20 ( 10 en total)
+
+
+**Entrevistador:**  
+**QA:** Mariana
+
+**Nombre:** Mariana  
+**Edad:** 29 años  
+**Profesión:** Analista de Calidad (QA)  
+**Perfil:** Especialista en pruebas funcionales y de rendimiento para plataformas digitales.
+
+
+**1. ¿El sistema permite al usuario registrar y crear una cuenta?**  
+Mariana: Sí, validé que el usuario puede registrarse con correo, teléfono y contraseña. El sistema bloquea correos duplicados y envía confirmación por email.
+**2. ¿El usuario puede iniciar sesión y cerrar sesión correctamente?**  
+Mariana: Sí. Probé login con credenciales correctas e incorrectas. La opción de cerrar sesión elimina la sesión activa y redirige al inicio.
+**3. ¿Se pueden agendar citas para cortes de pelo de perros en fechas y horas disponibles?**  
+Mariana: Sí, el calendario solo permite seleccionar horarios libres y bloquea los ocupados o pasados.
+**4. ¿El sistema permite seleccionar el tipo de corte de pelo (ej. básico, estético, de raza)?**  
+Mariana: Sí, el sistema despliega las opciones y guarda la selección en el detalle de la cita.
+**5. ¿El usuario puede elegir accesorios como moños o lazos para agregar al servicio?**  
+Mariana: Sí, los accesorios se pueden agregar, y el costo extra se refleja en el total de la cita.
+**6. ¿Se pueden visualizar imágenes de los cortes y accesorios antes de confirmar la cita?**  
+Mariana: Sí, cada opción muestra imágenes en buena resolución y se renderizan correctamente en distintos navegadores.
+**7. ¿El sistema envía una confirmación cuando se agenda una cita?**  
+Mariana: Sí, se envía un correo automático con la fecha, hora, corte y accesorios elegidos.
+**8. ¿El usuario puede modificar o cancelar una cita previamente agendada?**  
+Mariana: Sí, puede modificar o cancelar hasta 24 horas antes. Probé reprogramar y funcionó bien.
+**9. ¿El administrador o peluquero puede ver las citas programadas en un panel de control?**  
+Mariana: Sí, validé que el panel muestra todas las citas con detalles de cliente, tipo de corte, accesorios y estado de pago.
+**10. ¿El sistema permite procesar pagos en línea?**  
+Mariana: Sí, está integrado con una pasarela. Probé tarjetas válidas, rechazadas y con fondos insuficientes. El sistema responde con mensajes claros.
+**11. ¿El sistema carga la página principal en menos de 3 segundos?**  
+Mariana: En pruebas de rendimiento, la carga fue de ~2.5 segundos en promedio, dentro del objetivo.
+**12. ¿El sitio web es accesible desde dispositivos móviles?**  
+Mariana: Sí, tiene diseño responsive. Probé en móviles y tablets, y la interfaz se adapta bien.
+**13. ¿La plataforma es segura para proteger los datos personales y de pago?**  
+Mariana: Sí, usa HTTPS, cifrado de datos sensibles y cumple buenas prácticas de seguridad OWASP.
+**14. ¿El sistema soporta al menos 500 usuarios conectados al mismo tiempo?**  
+Mariana: Con pruebas de carga usando JMeter, comprobamos que soporta hasta 600 usuarios concurrentes sin caída.
+**15. ¿Las imágenes se visualizan en alta calidad sin distorsión?**  
+Mariana: Sí, validé que mantienen resolución adecuada y no se pixelan en pantallas grandes.
+**16. ¿El sitio está disponible el 99% del tiempo durante el mes?**  
+Mariana: Sí, los reportes de monitoreo muestran una disponibilidad del 99.3%.
+**17. ¿Los textos y botones son fáciles de entender y de usar?**  
+Mariana: Sí, la interfaz es intuitiva, con etiquetas claras y botones grandes, aptos para todo tipo de usuarios.
+**18. ¿El sistema notifica al usuario de forma clara cuando hay un error?**  
+Mariana: Sí, por ejemplo, en pagos rechazados muestra un mensaje específico con la causa.
+**19. ¿El sitio permite acceso en al menos dos idiomas (español e inglés)?**  
+Mariana: Sí, probé cambiar idioma y todo el contenido se traduce correctamente, incluyendo correos de confirmación.
+**20. ¿El sistema cumple con normativas de protección de datos (ej. GDPR)?**  
+Mariana: Sí, el sistema tiene políticas de privacidad, opción de aceptar cookies y maneja consentimiento explícito de datos personales.
+
+
+
+
